@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeInspector", "CodeInspector\CodeInspector.csproj", "{9C27FBA1-0EA7-479B-99E5-BE6888367976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C27FBA1-0EA7-479B-99E5-BE6888367976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C27FBA1-0EA7-479B-99E5-BE6888367976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C27FBA1-0EA7-479B-99E5-BE6888367976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C27FBA1-0EA7-479B-99E5-BE6888367976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766D48F6-D33A-464A-989B-690105746B38}
+	EndGlobalSection
+EndGlobal
